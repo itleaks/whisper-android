@@ -1,6 +1,8 @@
 A sample Android app using [whisper.cpp](https://github.com/ggerganov/whisper.cpp/) to do voice-to-text transcriptions.
 
-To use:
+Just build it and then try this application without more steps
+
+To customize models, please follow below steps:
 
 1. Select a model from the [whisper.cpp repository](https://github.com/ggerganov/whisper.cpp/tree/master/models).[^1]
 2. Copy the model to the "app/src/main/assets/models" folder.
